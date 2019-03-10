@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solar Edge</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="login">Login</string>
+    <string name="login_with_goggle">Sign With Google</string>
+</resources>
